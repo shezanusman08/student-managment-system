@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 //    STEP 1:   make variable to generate random number
 const randomNumber = Math.floor(10000 + Math.random() * 90000);

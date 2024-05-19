@@ -1,6 +1,6 @@
 {
   "name": "@shezanusman08/student-managment-system",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
